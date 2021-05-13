@@ -1,5 +1,5 @@
 # ModColor
-Developed for the Sci-Fantasy Tech Demo
+Developed for project the Sci-Fantasy Tech Demo
 
 Adds a panel for entering color by channel, in 255 format.
 
