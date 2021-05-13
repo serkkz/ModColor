@@ -7,3 +7,5 @@ Operation is possible in two modes.
 
 1. You can use three RGB components to set the color of the current brush.
 2. In vertex mode, you can select the desired vertices and click button "Apply color". That will write all four components to the vertex.
+
+The plugin is located: "UI", available in the vertex paint mode.
