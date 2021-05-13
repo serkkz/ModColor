@@ -22,5 +22,5 @@ Please note that the plugin does not translate the color into a linear represent
 4. And select the previously downloaded zip file
 5. Find the plugin and check the box for activation.
 
-## Restrictions
+## Limitations
 No feedback from the brush. If you change the brush color, the plugin will not know anything about it.
