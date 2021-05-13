@@ -3,7 +3,7 @@ Developed for project the Sci-Fantasy Tech Demo
 
 Adds a panel for entering color by channel, in 255 format.
 
-![Image alt](https://github.com/serkkz/res/blob/master/ModColor.pngg)
+![Image alt](https://github.com/serkkz/res/blob/master/ModColor.png)
 
 Operation is possible in two modes.
 
