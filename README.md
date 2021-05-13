@@ -9,3 +9,5 @@ Operation is possible in two modes.
 2. In vertex mode, you can select the desired vertices and click button "Apply color". That will write all four components to the vertex.
 
 The plugin is located: "UI", available in the vertex paint mode.
+
+Please note that the plugin does not translate the color into a linear representation.
